@@ -5,9 +5,6 @@ To develop an image classification model using transfer learning with VGG19 arch
 
 
 
-## Neural Network Model
-Include the neural network model diagram.
-
 ## DESIGN STEPS
 ### STEP 1: 
 
@@ -267,17 +264,21 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9d6bebf8-2de7-4ed5-a15e-85e24eb1c7de" />
+
 
 ## Confusion Matrix
 
-Include confusion matrix here
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/cb4ad5da-27a4-4ec9-8d31-02366f954fae" />
+
 
 ## Classification Report
-Include classification report here
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b4519a63-5bdb-42e6-8856-b1a1e9271d56" />
+
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/47ad8712-2d8e-49b7-a14b-4f170750a40d" />
+
 
 ## RESULT
-Include your result here
+Hence a Neural Network transfer model is developed using transfer learning.
